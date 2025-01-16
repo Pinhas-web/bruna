@@ -1,4 +1,4 @@
-* {
+{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -27,7 +27,7 @@
     position: relative;
     width: 100px;
     height: 100px;
-    background-color: rgb(0, 0, 255);
+    background-color: red;
     transform: rotate(45deg);
     animation: bater 1s infinite;
   }
@@ -38,7 +38,7 @@
     position: absolute;
     width: 100px;
     height: 100px;
-    background-color: rgb(0, 0, 255);
+    background-color: red;
     border-radius: 50%;
   }
   
@@ -67,4 +67,3 @@
     color: #ffffff;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
-  
